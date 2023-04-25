@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/UNPSoft?logo=github&style=for-the-b
 
 ### Spotify
 
-<a href="http://www.github.com/UNPSoft"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31vqwludr3wnbqyc3tcyzt7jqsiu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" /></a>
+<a href="http://www.github.com/UNPSoft"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31vqwludr3wnbqyc3tcyzt7jqsiu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" /></a>
 
 ### Skills
 
