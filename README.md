@@ -1,4 +1,4 @@
-Hi 👋 My name is Scott
+Hi 👋 My nickname is Scott(สก็อต)
 ======================
 
 Student
