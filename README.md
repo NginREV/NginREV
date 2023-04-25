@@ -55,6 +55,10 @@ src="https://img.shields.io/github/followers/UNPSoft?logo=github&style=for-the-b
 <a href="https://playvalorant.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/131740614/234201834-228e82fc-35c2-443c-90cd-f382f49bfe59.svg" width="32" height="32" /></a>
 </p>
 
+### Badges
+
+<p aliagn="left"><img src="https://img.shields.io/badge/platform-win--64-lightgrey" /></a></p>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/UNPSoft"><img src="https://github-readme-stats.vercel.app/api?username=UNPSoft&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="UNPSoft's GitHub stats" /></a>
