@@ -57,7 +57,11 @@ src="https://img.shields.io/github/followers/UNPSoft?logo=github&style=for-the-b
 
 ### Badges
 
-<p aliagn="left"><img src="https://img.shields.io/badge/platform-win--64-lightgrey" /></a></p>
+<p aliagn="left">
+<img src="https://img.shields.io/badge/platform-win--64-lightgrey" /></a>
+<img src="https://img.shields.io/badge/platform-android--11-lightgrey" /></a>
+<img src="https://img.shields.io/badge/platform-ipados--beta-lightgrey" /></a>
+</p>
 
 <b>My GitHub Stats</b>
 
