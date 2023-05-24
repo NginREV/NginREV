@@ -11,7 +11,9 @@ src="https://img.shields.io/github/followers/njnx?logo=github&style=for-the-badg
 
 ### Spotify
 
-<p align="left"><a href="https://open.spotify.com/user/31vqwludr3wnbqyc3tcyzt7jqsiu?si=52712c1df7744d73"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31vqwludr3wnbqyc3tcyzt7jqsiu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" /></a></p>
+<a href="https://open.spotify.com/user/31vqwludr3wnbqyc3tcyzt7jqsiu?si=52712c1df7744d73"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31vqwludr3wnbqyc3tcyzt7jqsiu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" /></a>
+
+<a href="https://open.spotify.com/user/31vqwludr3wnbqyc3tcyzt7jqsiu?si=52712c1df7744d73"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31vqwludr3wnbqyc3tcyzt7jqsiu" alt="Spotify Recently Played" /></a>
 
 ### Skills
 
