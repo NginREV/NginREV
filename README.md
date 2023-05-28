@@ -6,8 +6,8 @@ Student
 
 * 🌍  I'm based in Nonthaburi, Nonthaburi, Thailand
 
-<a href="https://www.github.com/njnx" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/njnx?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" /></a>
+<a href="https://www.github.com/NginREV" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" /></a>
 
 ### Spotify
 
@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/njnx?logo=github&style=for-the-badg
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/njnx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/NginREV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://line.me" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/131740614/234199838-21f85477-95e7-469a-8af6-80473d11cc7b.svg" width="32" height="32" /></a>
 </p>
 
@@ -67,8 +67,8 @@ src="https://img.shields.io/github/followers/njnx?logo=github&style=for-the-badg
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/njnx"><img src="https://github-readme-stats.vercel.app/api?username=njnx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="njnx's GitHub stats" /></a>
+<a href="http://www.github.com/NginREV"><img src="https://github-readme-stats.vercel.app/api?username=NginREV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="NginREV's GitHub stats" /></a>
 
-<a href="http://www.github.com/njnx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=njnx&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/NginREV"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NginREV&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/njnx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njnx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/NginREV" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NginREV&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
