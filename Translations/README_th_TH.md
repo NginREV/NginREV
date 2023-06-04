@@ -1,13 +1,12 @@
-Hi 👋 My nickname is Scott(สก็อต)
+⚠️หมายเหตุ: นี่คือเวอร์ชันแปลของต้นฉบับ [README.md](https://github.com/NginREV/NginREV/blob/main/README.md), ข้อมูลที่นี่อาจไม่ถูกต้องและอาจล้าสมัย
+
+สวัสดี 👋 ฉันชื่อสก็อต
 ======================
 
-Student
+นักเรียน
 -------
 
-* 🌍  I'm based in Nonthaburi, Nonthaburi, Thailand
-
-# See in thai
-<kbd>[<img title="ไทย" alt="ไทย" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/th.svg" width="22">](https://github.com/NginREV/NginREV/blob/main/translations/README_th_TH.md)</kbd>
+* 🌍  ฉันอยู่ที่นนทบุรี นนทบุรี ประเทศไทย
 
 <a href="https://www.github.com/NginREV" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" /></a>
@@ -18,7 +17,7 @@ src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-b
 
 <a href="https://open.spotify.com/user/31vqwludr3wnbqyc3tcyzt7jqsiu?si=52712c1df7744d73"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31vqwludr3wnbqyc3tcyzt7jqsiu" alt="Spotify Recently Played" /></a>
 
-### Skills
+### ทักษะ
 
 
 <p align="left">
@@ -46,21 +45,21 @@ src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-b
 </p>
 
 
-### Socials
+### สังคม
 
 <p align="left">
 <a href="https://www.github.com/NginREV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://line.me" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/131740614/234199838-21f85477-95e7-469a-8af6-80473d11cc7b.svg" width="32" height="32" /></a>
 </p>
 
-### Games
+### เกม
 
 <p align="left">
 <a href="https://www.fallguys.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/131740614/234201109-2a3785e4-af1f-4b47-b81b-c8151a63de7a.png" width="32" height="32" /></a>
 <a href="https://playvalorant.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/131740614/234201834-228e82fc-35c2-443c-90cd-f382f49bfe59.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
+### ป้าย
 
 <p aliagn="left">
 <img src="https://img.shields.io/badge/platform-win--64-lightgrey" /></a>
@@ -68,7 +67,7 @@ src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-b
 <img src="https://img.shields.io/badge/platform-ipados--beta-lightgrey" /></a>
 </p>
 
-<b>My GitHub Stats</b>
+<b>สถิติ GitHub ของฉัน</b>
 
 <a href="http://www.github.com/NginREV"><img src="https://github-readme-stats.vercel.app/api?username=NginREV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="NginREV's GitHub stats" /></a>
 
