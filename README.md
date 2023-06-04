@@ -6,7 +6,7 @@ Student
 
 * 🌍  I'm based in Nonthaburi, Nonthaburi, Thailand
 
-[View this page in Thai](https://github.com/NginREV/NginREV/blob/main/translations/README_th_TH.md)
+[View this page in Thai](https://github.com/NginREV/NginREV/blob/main/Translations/README_th_TH.md)
 
 <a href="https://www.github.com/NginREV" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" /></a>
