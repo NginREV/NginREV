@@ -65,6 +65,7 @@ src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-b
 <img src="https://img.shields.io/badge/platform-win--64-lightgrey" /></a>
 <img src="https://img.shields.io/badge/platform-android--11-lightgrey" /></a>
 <img src="https://img.shields.io/badge/platform-ipados--beta-lightgrey" /></a>
+<img src="https://img.shields.io/badge/youtube-premium-brightgreen" /></a>
 </p>
 
 <b>สถิติ GitHub ของฉัน</b>
