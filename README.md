@@ -6,10 +6,10 @@ Student
 
 * 🌍  I'm based in Nonthaburi, Nonthaburi, Thailand
 
-[View this page in Thai](https://github.com/NginREV/NginREV/blob/main/Translations/README_th_TH.md)
+[View this page in Thai](https://github.com/Microzilla-OSS/Microzilla-OSS/blob/main/Translations/README_th_TH.md)
 
-<a href="https://www.github.com/NginREV" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" /></a>
+<a href="https://www.github.com/Microzilla-OSS" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Microzilla-OSS?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" /></a>
 
 ### Spotify
 
@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-b
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/NginREV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/Microzilla-OSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://line.me" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/131740614/234199838-21f85477-95e7-469a-8af6-80473d11cc7b.svg" width="32" height="32" /></a>
 </p>
 
@@ -70,8 +70,8 @@ src="https://img.shields.io/github/followers/NginREV?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NginREV"><img src="https://github-readme-stats.vercel.app/api?username=NginREV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="NginREV's GitHub stats" /></a>
+<a href="http://www.github.com/Microzilla-OSS"><img src="https://github-readme-stats.vercel.app/api?username=Microzilla-OSS&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="Microzilla-OSS's GitHub stats" /></a>
 
-<a href="http://www.github.com/NginREV"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NginREV&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Microzilla-OSS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Microzilla-OSS&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/NginREV" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NginREV&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Microzilla-OSS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Microzilla-OSS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
