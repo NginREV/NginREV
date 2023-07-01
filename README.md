@@ -11,12 +11,6 @@ Student
 <a href="https://www.github.com/Sygisk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sygisk?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" /></a>
 
-### Spotify
-
-<a href="https://open.spotify.com/user/31vqwludr3wnbqyc3tcyzt7jqsiu?si=52712c1df7744d73"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31vqwludr3wnbqyc3tcyzt7jqsiu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" /></a>
-
-<a href="https://open.spotify.com/user/31vqwludr3wnbqyc3tcyzt7jqsiu?si=52712c1df7744d73"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31vqwludr3wnbqyc3tcyzt7jqsiu" alt="Spotify Recently Played" /></a>
-
 ### Skills
 
 
@@ -44,7 +38,6 @@ src="https://img.shields.io/github/followers/Sygisk?logo=github&style=for-the-ba
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left">
@@ -64,6 +57,7 @@ src="https://img.shields.io/github/followers/Sygisk?logo=github&style=for-the-ba
 <p aliagn="left">
 <img src="https://img.shields.io/badge/platform-win--64-lightgrey" /></a>
 <img src="https://img.shields.io/badge/platform-android--11-lightgrey" /></a>
+<img src="https://img.shields.io/badge/platform-android--magisk-lightgrey" /></a>
 <img src="https://img.shields.io/badge/platform-ipados--beta-lightgrey" /></a>
 <img src="https://img.shields.io/badge/youtube-premium-brightgreen" /></a>
 </p>
